@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(213, 167, 134);
+}
+.head-column{
+    width: 450px;
+}
+.head-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;  
+    font-weight: 700;
+}
+.head-discription{
+    margin: 15px 0;
+}
+.main-img{
+    height: 100vh;
+}
+.shop-btn{
+    padding: 14px 30px ;
+    margin: 25px 0 ;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(245, 111, 62);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+   
