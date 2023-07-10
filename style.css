@@ -125,3 +125,27 @@
     color: white;
     background-color: rgb(255, 145, 0);
 }
+/****************************instagram section style***************/
+.instagram-section{
+    text-align: center;
+    padding: 80px 50px ;
+    width: 500px;
+    margin: auto;
+}
+.instagran-title{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 10px;
+}
+.instagram-discription{
+    text-align: center;
+}
+.instagram-img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 70px 90px;
+    padding: 10px;
+    gap: 10px;
+}
