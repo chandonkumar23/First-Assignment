@@ -61,7 +61,7 @@
     gap: 25px;
 }
 .img-1{
-    background-color: pink;
+    background-color: rgb(216, 128, 173);
     padding: 0 42px;
     border-top-left-radius: 47%;
     border-top-right-radius: 47%;
@@ -73,7 +73,7 @@
     border-top-right-radius: 47%;
 }
 .img-3{
-    background-color: pink;
+    background-color: rgb(241, 214, 151);
    padding: 0 30px;
    border-top-left-radius: 47%;
    border-top-right-radius: 47%;
@@ -87,4 +87,41 @@
     font-size: 25px;
     font-weight: bold;
     top: -20;
+}
+/***************************discount style*************/
+.discount-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:70px 80px;
+    background-color: rgb(232, 221, 208);
+}
+.discound-column{
+    width: 450px;
+    text-align: center;
+}
+.discount-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+.off{
+    color: orangered;
+    font-weight: 700;
+    font-size: 38px;
+}
+.discount-discription{
+    text-align: center;
+    margin: 15px;
+}
+.sign-up{
+    margin: auto;
+    padding: 18px 37px;
+    margin: 10px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(255, 145, 0);
 }
